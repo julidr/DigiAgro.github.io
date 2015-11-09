@@ -1,0 +1,111 @@
+div#head{
+	background-color: #419641;
+	height: 200px;
+}
+
+div#menu2{
+	float: left;
+	width: 200px;
+	padding-left: 5px;
+}
+
+button#m2{
+	width: 200px;
+}
+
+div#centro{
+	padding-left: 10px;
+    float: left;
+    width: 900px;
+}
+
+div#hum{
+	text-align: center;
+	color: black;
+	font-size: 20px;
+	background-color: #DFF0D8;
+}
+
+div#infoH{
+	border: solid;
+	height: 200px;
+	text-align: center;
+	padding-top: 80px;
+    font-size: 50px;
+    border-color: #DFF0D8;
+    border-width: 2px;
+    color: black;
+}
+
+div#tablad{
+	float: left;
+    padding-left: 10px;
+    width: 245px;
+}
+
+button#actu{
+	margin-top: 10px;
+    width: 150px;
+}
+img#tamP{
+	width: 200px;
+}
+
+div#bot{
+	background-color: #419641;
+	height: 50px;
+    margin-top: 400px;
+}
+
+th{
+	text-align: center;
+}
+div#is{
+	margin: auto;
+	width: 400px;
+	margin-top: 50px;
+	background-image: url("../images/divB.png");
+	height: 270px;
+	color: black;
+}
+body#indx{
+	background-image: url("../images/background.png");
+}
+form#inS{
+	width: 274px;
+    margin: auto;
+    padding-top: 46px;
+}
+img#bien{
+	padding-top: 100px;
+}
+div#AlertIS{
+	width: 400px;
+    margin: auto;
+    margin-top: 10px;
+    text-align: center;
+}
+h3#nomG{
+	text-align: center;
+}
+img#imgS{
+	width: 20px;
+	padding-bottom: 5px;
+}
+button#hum{
+	margin-top: 10px;
+    width: 150px;
+}
+button#luz{
+	margin-top: 10px;
+    width: 150px;
+}
+button#temp{
+	margin-top: 10px;
+    width: 150px;
+}
+div#centro2{
+	padding-left: 10px;
+    float: left;
+    width: 900px;
+}
